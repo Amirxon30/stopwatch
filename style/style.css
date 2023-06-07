@@ -1,6 +1,6 @@
 @font-face {
     font-family: Helvetica-ultralight;
-    src: url(/font/HelveticaNeueCyr-UltraLight.ttf);
+    src: url(./font/HelveticaNeueCyr-UltraLight.ttf);
 }
 *{
     margin: 0;
